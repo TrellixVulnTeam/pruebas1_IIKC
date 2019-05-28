@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1999ab5-89bc-4b70-97a5-e2ee9d0b91e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto/jvc/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/jvc/templates/jvc/inicioSesion.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/jvc/templates/jvc/inicioSesion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/jvc/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/jvc/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/jvc/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/jvc/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/proyecto/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/proyecto/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/proyecto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/proyecto/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/usuario/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/usuario/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1999ab5-89bc-4b70-97a5-e2ee9d0b91e9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

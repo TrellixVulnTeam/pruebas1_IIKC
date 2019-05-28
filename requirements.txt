@@ -11,6 +11,7 @@ django-axes==4.4.2
 django-brutebuster==0.1.8
 django-cors-headers==2.4.0
 django-geoposition==0.3.0
+django-crispy-forms==1.7.2
 django-heroku==0.3.1
 django-ipware==2.1.0
 django-lockout==0.1.1

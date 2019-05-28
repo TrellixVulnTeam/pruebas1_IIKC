@@ -3,6 +3,6 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.home, name='homejvc'),
+    path('', views.inicioSesion, name='homejvc'),
     path('dashboard/', views.dashboard, name='dashboardjvc'),
 ]
